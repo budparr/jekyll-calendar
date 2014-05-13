@@ -1,0 +1,16 @@
+# Site settings
+title: A Calendar for Jekyll sites
+email: budparr@gmail.com
+description: "Jekyll is a great static site generator, but married to underscore.js it's capable of making a full-featured website including dynamic elements. This is one example"
+baseurl: ""
+url: "http://budparr.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+username: budparr
+
+sass:
+    style: :compressed
+    sass_dir: assets/css/_sass
