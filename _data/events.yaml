@@ -22,8 +22,11 @@
   venue: Venue Item
   website: "http://jekyllrb.com/"
   zip: zip
-
-
+  
+  - 
+  allday: true
+  start: "2015-05-15 18:00:00"
+  title: "National Dinosaur Day"
 
 - 
   address: 2500 Broadway
